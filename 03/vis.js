@@ -1,7 +1,7 @@
-    var svg = d3.select('svg'),
-        width = +svg.attr('width'),
-        height = +svg.attr('height');
-        
+    var svg = d3.select('svg');
+    var width = +svg.attr('width');
+    var height = +svg.attr('height');
+
     var color = d3.scaleOrdinal(d3.schemeCategory20)
       .range(['#e91e56', '#00965f', '#00bcd4', '#3f51b5', '#9c27b0', '#ff5722', '#cddc39', '#607d8b', '#8bc34a']);
     var simulation = d3.forceSimulation()
