@@ -1,4 +1,4 @@
-combining the 538 twitter graph with the graph annotation example from @elijah_meeks
+a mashup of the [538 twitter network](https://bl.ocks.org/xaranke/0fdf81a4857a360078b0) from [@xaranke](https://twitter.com/xaranke) with the [Network Annotation with Collision Detection](https://bl.ocks.org/emeeks/625641430adead4bd7dbc9c1ab3f5102) block from [@elijah_meeks](https://twitter.com/elijah_meeks)
 
 ---
 
